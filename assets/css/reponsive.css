@@ -1,0 +1,9 @@
+@media (max-width: 575px) {
+.header__fix{
+    position: unset;
+    transform: none;
+    visibility: unset;
+    max-height: 80px;
+    line-height: 8rem;
+}
+}
